@@ -1,0 +1,33 @@
+PODS:
+  - LookinServer (0.9.3)
+  - Masonry (1.1.0)
+  - MJRefresh (3.2.0)
+  - SHSegmentedControl (1.3.0):
+    - SHSegmentedControl/SHExtension (= 1.3.0)
+    - SHSegmentedControl/SHSegmentContent (= 1.3.0)
+  - SHSegmentedControl/SHExtension (1.3.0)
+  - SHSegmentedControl/SHSegmentContent (1.3.0):
+    - Masonry
+    - MJRefresh
+    - SHSegmentedControl/SHExtension
+
+DEPENDENCIES:
+  - LookinServer
+  - SHSegmentedControl
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LookinServer
+    - Masonry
+    - MJRefresh
+    - SHSegmentedControl
+
+SPEC CHECKSUMS:
+  LookinServer: 44f1b5f32743dc61068a156ff86b5b47d0a82943
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  SHSegmentedControl: 8538ed954000cc3d7c5a8ffd2b2a08a928076f60
+
+PODFILE CHECKSUM: 02bc2928850ef4593af876e4f6871b0938f9b154
+
+COCOAPODS: 1.5.3
